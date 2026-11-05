@@ -18,7 +18,7 @@ body {
             rgba(0, 0, 0, 0.40),
             rgba(0, 0, 0, 0.50)
         ),
-        url("technology-bg.jpeg");
+        url("images/technology-bg.jpeg");
 
     background-size: cover;
     background-position: center;
